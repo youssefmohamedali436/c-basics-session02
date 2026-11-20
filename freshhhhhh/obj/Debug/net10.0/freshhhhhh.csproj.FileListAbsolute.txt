@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\bin\Debug\net10.0\freshhhhhh.exe
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\bin\Debug\net10.0\freshhhhhh.deps.json
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\bin\Debug\net10.0\freshhhhhh.runtimeconfig.json
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\bin\Debug\net10.0\freshhhhhh.dll
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\bin\Debug\net10.0\freshhhhhh.pdb
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\obj\Debug\net10.0\freshhhhhh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\obj\Debug\net10.0\freshhhhhh.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\obj\Debug\net10.0\freshhhhhh.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\obj\Debug\net10.0\freshhhhhh.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\obj\Debug\net10.0\freshhhhhh.dll
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\obj\Debug\net10.0\refint\freshhhhhh.dll
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\obj\Debug\net10.0\freshhhhhh.pdb
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\obj\Debug\net10.0\freshhhhhh.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\obj\Debug\net10.0\ref\freshhhhhh.dll
+C:\Users\Lenovo\source\repos\freshhhhhh\freshhhhhh\obj\Debug\net10.0\freshhhhhh.csproj.Up2Date
